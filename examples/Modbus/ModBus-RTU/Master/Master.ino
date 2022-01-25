@@ -1,3 +1,17 @@
+/*
+*******************************************************************************
+* Copyright (c) 2022 by M5Stack
+*                  Equipped with ATOM DTU CAT1 Modbus sample source code
+* Visit the website for more
+information：https://docs.m5stack.com/en/atom/atom_dtu_cat1
+* describe: ATOM DTU CAT1 Modbus Master Example.
+* Libraries:
+    - [ArduinoModbus](https://github.com/m5stack/ArduinoModbus)
+    - [Arduino485](https://github.com/m5stack/ArduinoRS485)
+* date：2022/1/25
+*******************************************************************************
+*/
+
 #include <M5Atom.h>
 #include <ArduinoModbus.h>
 #include <ArduinoRS485.h>

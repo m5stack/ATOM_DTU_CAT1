@@ -1,3 +1,18 @@
+
+/*
+*******************************************************************************
+* Copyright (c) 2022 by M5Stack
+*                  Equipped with ATOM DTU CAT1 MQTT Client sample source code
+* Visit the website for more
+information：https://docs.m5stack.com/en/atom/atom_dtu_cat1
+* describe: ATOM DTU CAT1 MQTT Client Example.
+* Libraries:
+ - [TinyGSM](https://github.com/vshymanskyy/TinyGSM)
+ - [PubSubClient](https://github.com/knolleary/pubsubclient.git)
+* date：2022/1/25
+*******************************************************************************
+*/
+
 #include <M5Atom.h>
 #include "ATOM_DTU_CAT1.h"
 #include <PubSubClient.h>
