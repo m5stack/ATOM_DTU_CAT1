@@ -13,7 +13,7 @@ Contains M5Stack-**ATOM_DTU_CAT1** series related case programs. The hardware is
 
 ## Related Link
 
-[Docment & AT Command](https://docs.m5stack.com/en/atom/atom_dtu_cat1)
+[Document & AT Command](https://docs.m5stack.com/en/atom/atom_dtu_cat1)
 
 ## License
 
